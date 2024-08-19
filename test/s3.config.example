@@ -1,0 +1,7 @@
+{
+    "endpoint": "143.110.250.1:7001",
+    "accessKey": "AGq0anE7bBtUB9E7",
+    "secretKey": "hTysoeZ5n0hemHS4TbZPtES1TCcdE7ty",
+    "useSSL": false,
+	"region": "ap-south-1"
+}
